@@ -1,4 +1,4 @@
-package LearnTheBasics.BuildUpLogicalThinking;
+package StriverATZ.LearnTheBasics.BuildUpLogicalThinking;
 
 public class EMH {
     public void pattern1(int n) {
