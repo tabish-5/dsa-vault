@@ -5,5 +5,7 @@ public class CountAllDigitsofNumber {
         int n = 12345;
         int cnt = (int) (Math.log10(n) + 1);
         System.out.println(cnt);
+        cnt = String.valueOf(n).length();
+        System.out.println(cnt);
     }
 }
