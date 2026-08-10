@@ -1,4 +1,4 @@
-package StriverATZ.Arrays.Hard;
+// package StriverATZ.Arrays.Hard;
 
 import java.util.AbstractList;
 import java.util.ArrayList;
