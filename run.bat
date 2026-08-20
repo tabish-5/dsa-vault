@@ -1,5 +1,5 @@
-@echo off
+set /p user_input="Enter your commit message here: "
 @git add .
 @git status
-@git commit -m "adding more files"
+@git commit -m "%user_input%"
 @git push
