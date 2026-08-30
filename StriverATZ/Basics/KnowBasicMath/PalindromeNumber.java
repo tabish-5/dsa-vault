@@ -1,4 +1,6 @@
-package StriverATZ.LearnTheBasics.KnowBasicMath;
+package StriverATZ.Basics.KnowBasicMath;
+
+
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {
         // Negative numbers and numbers ending with 0 (except 0) are not palindromes

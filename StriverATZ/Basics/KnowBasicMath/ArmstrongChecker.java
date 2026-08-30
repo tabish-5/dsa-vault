@@ -1,4 +1,4 @@
-package StriverATZ.LearnTheBasics.KnowBasicMath;
+package StriverATZ.Basics.KnowBasicMath;
 
 public class ArmstrongChecker {
 

@@ -1,4 +1,4 @@
-package StriverATZ.LearnTheBasics.KnowBasicMath;
+package StriverATZ.Basics.KnowBasicMath;
 
 import java.util.*;
 public class AllDigitsofGivenNumber {

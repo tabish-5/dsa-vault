@@ -1,4 +1,5 @@
-package StriverATZ.LearnTheBasics.Recursion;
+package StriverATZ.Basics.Recursion;
+
 
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {

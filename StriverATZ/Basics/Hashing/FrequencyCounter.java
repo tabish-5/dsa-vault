@@ -1,4 +1,4 @@
-package StriverATZ.LearnTheBasics.Hashing;
+package StriverATZ.Basics.Hashing;
 
 import java.util.*;
 

@@ -1,4 +1,5 @@
-package StriverATZ.LearnTheBasics.KnowBasicMath;
+package StriverATZ.Basics.KnowBasicMath;
+
 
 public class PrimeChecker {
     public boolean checkPrime(int n) {

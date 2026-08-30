@@ -1,4 +1,4 @@
-package StriverATZ.LearnTheBasics.KnowBasicMath;
+package StriverATZ.Basics.KnowBasicMath;
 
 public class GCDofTwoNumbers {
     public static int findGcd(int a, int b) {

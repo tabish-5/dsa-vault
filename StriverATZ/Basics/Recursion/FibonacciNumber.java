@@ -1,4 +1,5 @@
-package StriverATZ.LearnTheBasics.Recursion;
+package StriverATZ.Basics.Recursion;
+
 
 public class FibonacciNumber {
     public int fib(int n) {
