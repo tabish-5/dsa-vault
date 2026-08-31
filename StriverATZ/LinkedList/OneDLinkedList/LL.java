@@ -23,6 +23,7 @@ public class LL {
         public int val;
         public ListNode next;
         public ListNode(int x) { val = x; }
+        // public ListNode(int[] arr) 
     }
 
     public static class DNode {
