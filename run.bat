@@ -1,3 +1,4 @@
+@cls
 @set /p user_input="Enter your commit message here: "
 @git add .
 @git status
