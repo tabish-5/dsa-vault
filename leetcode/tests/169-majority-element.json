@@ -1,0 +1,8 @@
+[
+  {
+    "input": "[1]",
+    "expected": "1",
+    "verdict": "Wrong Answer",
+    "saved_at": "2026-09-29 03:02"
+  }
+]
